@@ -1,0 +1,8 @@
+D:\GoogleDrive\Profesional\MASTER\Desarrollos\BonaIT\BLogService\BLogService\bin\Release\netstandard2.0\BIT.LogService.deps.json
+D:\GoogleDrive\Profesional\MASTER\Desarrollos\BonaIT\BLogService\BLogService\bin\Release\netstandard2.0\BIT.LogService.dll
+D:\GoogleDrive\Profesional\MASTER\Desarrollos\BonaIT\BLogService\BLogService\bin\Release\netstandard2.0\BIT.LogService.pdb
+D:\GoogleDrive\Profesional\MASTER\Desarrollos\BonaIT\BLogService\BLogService\obj\Release\netstandard2.0\BLogService.AssemblyInfoInputs.cache
+D:\GoogleDrive\Profesional\MASTER\Desarrollos\BonaIT\BLogService\BLogService\obj\Release\netstandard2.0\BLogService.AssemblyInfo.cs
+D:\GoogleDrive\Profesional\MASTER\Desarrollos\BonaIT\BLogService\BLogService\obj\Release\netstandard2.0\BLogService.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Profesional\MASTER\Desarrollos\BonaIT\BLogService\BLogService\obj\Release\netstandard2.0\BIT.LogService.dll
+D:\GoogleDrive\Profesional\MASTER\Desarrollos\BonaIT\BLogService\BLogService\obj\Release\netstandard2.0\BIT.LogService.pdb
